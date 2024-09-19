@@ -1,0 +1,16 @@
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.csproj.AssemblyReference.cache
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.AssemblyInfoInputs.cache
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.AssemblyInfo.cs
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.csproj.CoreCompileInputs.cache
+C:\Users\milena.lima\source\repos\telaLogin\bin\Debug\net5.0\telaLogin.exe
+C:\Users\milena.lima\source\repos\telaLogin\bin\Debug\net5.0\telaLogin.deps.json
+C:\Users\milena.lima\source\repos\telaLogin\bin\Debug\net5.0\telaLogin.runtimeconfig.json
+C:\Users\milena.lima\source\repos\telaLogin\bin\Debug\net5.0\telaLogin.runtimeconfig.dev.json
+C:\Users\milena.lima\source\repos\telaLogin\bin\Debug\net5.0\telaLogin.dll
+C:\Users\milena.lima\source\repos\telaLogin\bin\Debug\net5.0\ref\telaLogin.dll
+C:\Users\milena.lima\source\repos\telaLogin\bin\Debug\net5.0\telaLogin.pdb
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.dll
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\ref\telaLogin.dll
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.pdb
+C:\Users\milena.lima\source\repos\telaLogin\obj\Debug\net5.0\telaLogin.genruntimeconfig.cache
